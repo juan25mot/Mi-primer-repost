@@ -1,0 +1,15 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "juan",
+  "license": "ISC",
+  "description": "lo que quieran",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
